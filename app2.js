@@ -18,7 +18,7 @@ app.listen(8080, function(){
 
   let json = '['+
     '{ "id": "1BFS18", "nombre": "Víctor", "apellido1": "Vanaclocha", "apellido2": "Cebrián", "correo": "victorvace95@gmail.com", "curso": "Bootcamp Full Stack Developer",  "codigo": "abc123", "enviado":false },'+
-    '{ "id": "2BFS18", "nombre": "Juan Diego", "apellido1": "Martín-Blas", "apellido2": "Ramos", "correo": "victorvace_95@hotmail.es", "curso": "Noob Developer", "codigo": "123abc", "enviado":false },'+
+    '{ "id": "2BFS18", "nombre": "Juan Diego", "apellido1": "Martín-Blas", "apellido2": "Ramos", "correo": "victorvace_95@hotmail.es", "curso": "Pro Developer", "codigo": "123abc", "enviado":false },'+
     '{ "id": "3BFS18", "nombre": "Xavi", "apellido1": "Rodríguez", "apellido2": "Soler", "correo": "vicvace@campusaula.com", "curso": "Genius Full Stack Developer Profesional", "codigo": "a1b2c3", "enviado":false }'+
     ']';
 
